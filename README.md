@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a 2nd Year Student from Cavite State University of Imus Campus<br><br>- 📚 I'm currently learning Advanced Programming, Data Systems, and Open Source Technologies<br>- ⚡ In my free time I usually just study and play video games</p>
+<p align="left">I'm a 2nd Year Student from Cavite State University of Imus Campus<br><br>- 📚 I'm currently learning Advanced Programming, Data Systems, and Open Source Technologies<br>- ⚡ In my free time I usually just study, program and play video games</p>
 
 ###
 
